@@ -40,11 +40,9 @@ public class Extra {
 
         //method calling through creating an object
         Extra extra = new Extra();
-
         System.out.println("Addition: " + extra.addition());
         System.out.println("Subtraction: " + extra.subtraction());
         System.out.println("Multiplication: " + extra.multiplication());
         System.out.println("Division: " + extra.division());
     }
 }
-
