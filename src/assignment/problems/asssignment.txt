@@ -1,0 +1,59 @@
+1. Write a java program to achieve below output:
+
+o/p:
+
+I have started learning Java since Aug 2025
+
+2. Write a java program to calculate sum of 3 numbers with:
+
+a. Non parameterized method
+b. Parameterized method
+c. Directly inside main method
+d. Parameterized method with return type
+====================
+
+access specifier
+
+public - can be accessed from anywhere inside the project (learn-java)
+private - can be accessed within the same class only
+default - within the same package
+protected - within the same package and its sub class
+
+
+-------
+Day 2 Assignment
+
+1. Create a Calculator which will calculate addition, subtraction, multiplication and division.
+
+Make sure to use
+Parameterized method with return type
+
+2. Create a class called User which has 3 non-static/instance variable like name, age and id and
+   two static variables like department and salary and display their values in below output format
+
+   Output:
+
+   Name of the user is: Sarju
+   Age of the user is: 23
+   Id of the user is: 786
+   Department of the user is: CSE
+   Salary of the user is: 30000
+
+Day 3:
+
+3. Create a class called Student which has 3 non-static/instance methods like getName, getAge and getRollNo and
+   two static variables like getEmail and getAddress and display their values in below output format
+
+   Output:
+   Student name is: Asif
+   Student age is: 18
+   Student Roll No is: 786
+   Student Email is: test@email.com
+   Student Address is: Nuadhana, Anakhia, Jagatsinghpur
+
+   4. write a java program to calculate area of a right angle triangle with base = 10 and height = 8 ?
+   4. Calculate area of circle, square and rectangle.
+
+
+
+
